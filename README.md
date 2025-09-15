@@ -11,6 +11,7 @@ Este projeto implementa uma calculadora de integrais definidas que utiliza o **M
 - [Pré-requisitos](#pré-requisitos)
 - [Como Usar](#como-usar)
 - [Como o Código Funciona](#como-o-código-funciona)
+- [Link do Video no YouTube](#link-do-video-no-youtube)
 
 ---
 
@@ -93,9 +94,9 @@ O projeto se baseia na função calcular_integral que implementa a Soma de Riema
 3º Resultado: Após percorrer todos os subintervalos, a função retorna o valor acumulado, que é a aproximação da integral.
 
 
+## Link do Video no YouTube
 
-
-
+[Video no YouTube](https://www.youtube.com/watch?v=k4Rsy8GbKE0&t=10s&ab_channel=FernandaKipper%7CDev)
 
 
 
