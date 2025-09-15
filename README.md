@@ -82,11 +82,33 @@ python calculadora_riemann.py
 O resultado da aproximação será exibido no console.
 
 ## Como o Código Funciona
+
 O projeto se baseia na função calcular_integral que implementa a Soma de Riemann à Esquerda. O processo é simples e direto:
 
-Cálculo da Largura (Δx): A função divide o intervalo total (b−a) pelo número de retângulos (n) para determinar a largura de cada retângulo.
-Δx=(b−a)/n
+1º Cálculo da Largura (Δx): A função divide o intervalo total (b−a) pelo número de retângulos (n) para determinar a largura de cada retângulo. A fórmula é: Δx=(b−a)/n
 
-Soma das Áreas: Um laço de repetição (for) itera n vezes. Em cada iteração, ele calcula a altura do retângulo (o valor da função no ponto x_i) e multiplica pela largura Δx para obter a área. Essa área é adicionada a um somatório.
 
-Resultado: Após percorrer todos os subintervalos, a função retorna o valor acumulado, que é a aproximação da integral.
+2º Soma das Áreas: Um laço de repetição (for) itera n vezes. Em cada iteração, ele calcula a altura do retângulo (o valor da função no ponto x_i) e multiplica pela largura Δx para obter a área. Essa área é adicionada a um somatório.
+
+3º Resultado: Após percorrer todos os subintervalos, a função retorna o valor acumulado, que é a aproximação da integral.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
