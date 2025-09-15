@@ -96,7 +96,7 @@ O projeto se baseia na função calcular_integral que implementa a Soma de Riema
 
 ## Link do Video no YouTube
 
-[Video no YouTube](https://www.youtube.com/watch?v=k4Rsy8GbKE0&t=10s&ab_channel=FernandaKipper%7CDev)
+[Video no YouTube](https://youtu.be/qETp3qbCcgE)
 
 
 
